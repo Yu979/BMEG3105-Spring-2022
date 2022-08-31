@@ -5,7 +5,7 @@ title: BMEG3105-Spring 2022
 
 ## BMEG3105: Data analytics for personalized genomics and precision medicine-Spring 2022
 
-[<a href="https://forms.gle/RnHs7KrLQrio3zzf9">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall20212/bmeg3105">Piazza</a>, 
+[<a href="https://forms.gle/RnHs7KrLQrio3zzf9">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1yHtmqTbYZ754VE4yb6gazJM3jgnpIgOadQ0M7NIq9X0/edit?usp=sharing">Scribing preference</a>,
 <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
 
@@ -34,8 +34,7 @@ Mixed. Slides will be available the day before the lecture day. Video recordings
 
 
 #### Communications
-<b>Blackboard</b> is the main software to manage the course, and grading will be through blackboard. We will use <b>Piazza</b> (<a href="www.piazza.com/cuhk.edu.hk/fall2022/bmeg3105
-">BMEG3105</a>) for discussion. You can ask questions through Piazza, even anonymously. For a personal matter, please use the private post to the instructor and the TA. You are also very welcomed to send <b>emails</b> to the instructor and TAs.
+<b>Blackboard</b> is the main software to manage the course, and grading will be through blackboard. We will use <b>Piazza</b> (<a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">BMEG3105</a>) for discussion. You can ask questions through Piazza, even anonymously. For a personal matter, please use the private post to the instructor and the TA. You are also very welcomed to send <b>emails</b> to the instructor and TAs.
 
 
 #### Grading
