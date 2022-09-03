@@ -6,7 +6,7 @@ title: BMEG3105-Spring 2022
 ## BMEG3105: Data analytics for personalized genomics and precision medicine-Spring 2022
 
 [<a href="https://forms.gle/RjKZaLafeDtEus2p9">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">Piazza</a>, 
-<a href="https://docs.google.com/spreadsheets/d/1yHtmqTbYZ754VE4yb6gazJM3jgnpIgOadQ0M7NIq9X0/edit?usp=sharing">Scribing preference</a>,
+<a href="https://docs.google.com/spreadsheets/d/1lA_eLCQawKLG2IWNPJ3gDa9bKp9adOZcQMdb_ciLgEg/edit?usp=sharing">Scribing preference</a>,
 <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
 
 ### <a>Course description</a>
@@ -59,7 +59,7 @@ Python (the TA will prepare a recitation class to introduce it, mainly for the n
 The programming credits include Non-grading assignment (10%) and Grading programming included in the project (5%). The bonus is sufficient to cover all the programming credit. If you really do not want to try hand-on experiments at all. We do encourage you try.
 
 #### Scribing
-Please sign <a href="https://docs.google.com/spreadsheets/d/1yHtmqTbYZ754VE4yb6gazJM3jgnpIgOadQ0M7NIq9X0/edit?usp=sharing">Scribing preference</a>. We should have at least one student for each lecture. We may adjust the assignment if necessary. Notice that your note and scribing will be posted online, for others reference. You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 12th Sep</span>**. After that, the Google sheet will be closed.
+Please sign <a href="https://docs.google.com/spreadsheets/d/1lA_eLCQawKLG2IWNPJ3gDa9bKp9adOZcQMdb_ciLgEg/edit?usp=sharing">Scribing preference</a>. We should have at least one student for each lecture. We may adjust the assignment if necessary. Notice that your note and scribing will be posted online, for others reference. You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 12th Sep</span>**. After that, the Google sheet will be closed.
 
 #### Projects
 We will do the project individually. You can give us your project and seek our help or we will predefine some projects for you to choose. Some potential projects:
@@ -77,7 +77,7 @@ Both the mid-term report (1 page) and the final report should be submitted.
 Each student will have <b>6 late days</b> to turn in assignments, which can be used on A1, A2, A3, PA1, and the project mid-term report. They cannot be used on the project final report and the scribing note. A maximum of 2 late days can be used for each assignment. Grades will be deducted by 25% for each additional late day. 
 
 #### Post-lecture survey 
-Deadline for each survey: **<span style="color:red;">11:59pm on the day before the next lecture</span>**. We do this because I could have time to answer the questions you mentioned in the survey. Please fill 1 in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/11BZVDMN3RALPWu3mVp87uXOBjmtQQMQR7L1ZIA4-v8Y/edit?usp=sharing">Survey results</a>, once you have finished one survey. Usually, we will trust the 1s you fill in the Google sheet. But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
+Deadline for each survey: **<span style="color:red;">11:59pm on the day before the next lecture</span>**. We do this because I could have time to answer the questions you mentioned in the survey. Please fill 1 in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1D6fW_VH6zv6gjejbQ6u5PGJIWbgWpFe-sDG-TuiFnsI/edit?usp=sharing">Survey results</a>, once you have finished one survey. Usually, we will trust the 1s you fill in the Google sheet. But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
 
 
 ### <a id="schedule_materials">Course schedule and materials</a>
@@ -90,7 +90,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 2       | Sep 9 (Fri) | LSB-LT3 | Data & Python   |  |  |         | <a href="#assignments">PA 0</a> posted|
 | 3       | Sep 14 (Wed) | SC-L4 | Sequence and DP |  |  |         | **<span style="color:red;">PA0 due</span>**|
 | 4       | Sep 16 (Fri) | LSB-LT3 | Assembly & Mapping|  |       |         | A1 posted|
-|5| Sep 21 (Wed) | SC-L4 |Data exploration |              |       |         | Mid-Autumn Festival|
+|5| Sep 21 (Wed) | SC-L4 |Data exploration |              |       |         |  |
 | 6      | Sep 23 (Fri) | LSB-LT3 | Data exploration|  |  |||
 | 7      | Sep 28 (Wed) | SC-L4 | Clustering      |  |       |         | **<span style="color:red;">A1 due</span>**|
 |8| Sep 30 (Fri) | LSB-LT3 |Clustering | | | |  |
@@ -109,11 +109,11 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 20     | Nov 11 (Fri) | LSB-LT3 | Protein-RNA     |  |       |         ||
 | |||<span style="color:blue">Module 3 start</span>|||||
 | 21     | Nov 16 (Wed) | SC-L4 | Deep learning  |  |       |         | **<span style="color:red;">PA1 due</span>**, A3 posted|
-| 20       | Nov 18 (Fri) | LSB-LT3 | How to present |  |       |         ||
-| 21       | Nov 23 (Wed) | SC-L4 | EHRs & Bio-graph |  |       |         ||
-| 22       | Nov 25 (Fri) | LSB-LT3 | Project pres   |  | | | **<span style="color:red;">A3 due</span>**|
-| 23       | Nov 30 (Wed) | SC-L4 | Course review |  | | | **<span style="color:red;">ParticipationQ</span>**|
-| 24       | Dec 2 (Fri) | LSB-LT3 | Project pres  | | | | **<span style="color:red;">Project report</span>**|
+| 22      | Nov 18 (Fri) | LSB-LT3 | How to present |  |       |         ||
+| 23      | Nov 23 (Wed) | SC-L4 | EHRs & Bio-graph |  |       |         ||
+| 24      | Nov 25 (Fri) | LSB-LT3 | Project pres   |  | | | **<span style="color:red;">A3 due</span>**|
+| 25      | Nov 30 (Wed) | SC-L4 | Course review |  | | | **<span style="color:red;">ParticipationQ</span>**|
+| 26      | Dec 2 (Fri) | LSB-LT3 | Project pres  | | | | **<span style="color:red;">Project report</span>**|
 
 ### <a id="assignments">Assignments</a>
 <ul>
