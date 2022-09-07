@@ -1,7 +1,10 @@
-<!-- ---
+---
 layout: default
-title: BMEG3105-Fall-2022
---- -->
+name: BMEG3105-Fall-2022
+title: null
+title-heading: false
+---
+
 
 ## BMEG3105: Data analytics for personalized genomics and precision medicine-Fall 2022
 
