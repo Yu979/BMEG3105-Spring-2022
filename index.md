@@ -1,9 +1,9 @@
 ---
 layout: default
-title: BMEG3105-Spring 2022
+title: BMEG3105-Fall 2022
 ---
 
-## BMEG3105: Data analytics for personalized genomics and precision medicine-Spring 2022
+## BMEG3105: Data analytics for personalized genomics and precision medicine-Fall 2022
 
 [<a href="https://forms.gle/RjKZaLafeDtEus2p9">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1lA_eLCQawKLG2IWNPJ3gDa9bKp9adOZcQMdb_ciLgEg/edit?usp=sharing">Scribing preference</a>,
