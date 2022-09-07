@@ -1,8 +1,8 @@
 ---
-layout: default
 name: BMEG3105-Fall-2022
 title: null
 title-heading: false
+layout: default
 ---
 
 
