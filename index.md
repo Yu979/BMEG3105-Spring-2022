@@ -90,7 +90,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | Lecture | Date  |Location| Topic | Slides/Video | Notes | Reading | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)|
 | ------- |------- |-------| ------| -------|-------|---------|----------------|
 |1| Sep 7 (Wed) | SC-L4 | Introduction | <a href="https://www.dropbox.com/s/6xg1p8gccltj5sd/lec1-Intro.pdf?dl=0">Lec-1</a>    |  |  |  |
-| 2       | Sep 9 (Fri) | LSB-LT3 | Data & Python   | <a href="https://www.dropbox.com/s/tfzo1ttzb5fxjgk/lec2-data%20and%20python.pdf?dl=0">Lec-2</a>  |  |         | <a href="#assignments">PA 0</a> posted|
+| 2       | Sep 9 (Fri) | LSB-LT3 | Data & Python   | <a href="https://www.dropbox.com/s/tfzo1ttzb5fxjgk/lec2-data%20and%20python.pdf?dl=0">Lec-2</a>  |  | [Sample code](https://colab.research.google.com/drive/1cdbEwWRqw2QUtITqvBj7u5m8NRgnY89Y?usp=sharing) | <a href="#assignments">PA 0</a> posted|
 | 3       | Sep 14 (Wed) | SC-L4 | Sequence and DP |  |  |         | **<span style="color:red;">PA0 due</span>**|
 | 4       | Sep 16 (Fri) | LSB-LT3 | Assembly & Mapping|  |       |         | A1 posted|
 |5| Sep 21 (Wed) | SC-L4 |Data exploration |              |       |         |  |
