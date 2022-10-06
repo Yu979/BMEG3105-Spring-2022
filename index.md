@@ -98,11 +98,11 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 7      | Sep 28 (Wed) | SC-L4 | Classification  | <a href="https://www.dropbox.com/s/9uuygvv2xckow0n/lec7-Classification.pdf?dl=0">Lec-7</a>  |       | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, <a href="https://colab.research.google.com/drive/1ogX-QiR1jBWuZjbTXGFhi9H-0XdpGNhU?usp=sharing">Correlation</a>  | **<span style="color:red;">A1 due</span>**|
 |8| Sep 30 (Fri) | LSB-LT3 | Classification | <a href="https://www.dropbox.com/s/nmis4w3kocq57an/lec8-Classification.pdf?dl=0">Lec-8</a>  | | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, [tut4 slides](reading/bmeg3105_tut4.pptx) |  |
 | 9      | Oct 5 (Wed) | SC-L4 | Perf evaluation  | <a href="https://www.dropbox.com/s/bnk9ag2y3dll8ac/lec9-Performance%20evaluation.pdf?dl=0">Lec-9</a>  |       | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>  | A2 posted|
-| 10     | Oct 7 (Fri) | LSB-LT3 | Classification perf |  |       |         ||
-| 11     | Oct 12 (Wed) | SC-L4 | Perf evaluation |   | | |  |
+| 10     | Oct 7 (Fri) | LSB-LT3 | Feat selection | <a href="https://www.dropbox.com/s/x09vzfs58d5otk3/lec10-Feature%20selection%20and%20DR.pdf?dl=0">Lec-10</a>  |       | <a href="https://github.com/probml/pml-book">PML book</a>        | |
+| 11     | Oct 12 (Wed) | SC-L4 | Dim reduction |   | | |  |
 | 12      | Oct 14 (Fri) | LSB-LT3 | Perf evaluation |  |       |         ||
-| 13    | Oct 19 (Wed) | SC-L4 | Statistical test |  |       | | **<span style="color:red;">ParticipationQ,</span>** **<span style="color:red;">A2 due</span>**|
-| 14      | Oct 21 (Fri) | LSB-LT3 | Statistical test | |- |- |**<span style="color:red;">8:30am-11:15am, Mid-term</span>**|
+| 13    | Oct 19 (Wed) | SC-L4 | Mid-term review |  |       | | **<span style="color:red;">ParticipationQ,</span>** **<span style="color:red;">A2 due</span>**|
+| 14      | Oct 21 (Fri) | LSB-LT3 | Mid-term | |- |- |**<span style="color:red;">8:30am-11:15am, Mid-term</span>**|
 ||||<span style="color:blue;">Module 2 start</span>|||||
 | 15      | Oct 26 (Wed) | SC-L4 |  Dim reduction & Visualization  |  |       |         | PA1 posted|
 | 16      | Oct 28 (Fri) | LSB-LT3 | Multi-omics data |  |       |         ||
