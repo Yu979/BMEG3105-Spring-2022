@@ -100,7 +100,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 9      | Oct 5 (Wed) | SC-L4 | Perf evaluation  | <a href="https://www.dropbox.com/s/bnk9ag2y3dll8ac/lec9-Performance%20evaluation.pdf?dl=0">Lec-9</a>  |       | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>  | A2 posted|
 | 10     | Oct 7 (Fri) | LSB-LT3 | Feat selection | <a href="https://www.dropbox.com/s/x09vzfs58d5otk3/lec10-Feature%20selection%20and%20DR.pdf?dl=0">Lec-10</a>  |       | <a href="https://github.com/probml/pml-book">PML book</a>, [tut5 slides](./reading/Tutorial_5_model%20evaluation.pptx)       | |
 | 11     | Oct 12 (Wed) | SC-L4 | Dim reduction | <a href="https://www.dropbox.com/s/h14zcm4xb1xzd4e/lec11-DR%20and%20NN.pdf?dl=0">Lec-11</a>   | | <a href="https://github.com/probml/pml-book">PML book</a> |  | 
-| 12      | Oct 14 (Fri) | LSB-LT3 | Overfitting | <a href="https://www.dropbox.com/s/8e6y3u8ccp8a9g1/lec12-Overfitting.pdf?dl=0">Lec-12</a> |  |  <a href="https://d2l.ai">D2L book</a>       |   | [tut6 slides](./reading/TUT6.pptx)     ||
+| 12      | Oct 14 (Fri) | LSB-LT3 | Overfitting | <a href="https://www.dropbox.com/s/8e6y3u8ccp8a9g1/lec12-Overfitting.pdf?dl=0">Lec-12</a> |  |  <a href="https://d2l.ai">D2L book</a>,   [tut6 slides](./reading/TUT6.pptx)    |   |    
 | 13    | Oct 19 (Wed) | SC-L4 | Mid-term review |  |       | | **<span style="color:red;">ParticipationQ,</span>** **<span style="color:red;">A2 due</span>**|
 | 14      | Oct 21 (Fri) | LSB-LT3 | Mid-term | |- |- |**<span style="color:red;">8:30am-11:15am, Mid-term</span>**|
 ||||<span style="color:blue;">Module 2 start</span>|||||
