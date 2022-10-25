@@ -104,7 +104,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 13    | Oct 19 (Wed) | SC-L4 | Mid-term review | <a href="https://www.dropbox.com/s/mja4931lubfrxau/lec13-Mid-term%20review.pdf?dl=0">Lec-13</a>  |       | [tut A2 (passcode: ef94@^+f)](https://cuhk.zoom.us/rec/share/7mdR-4dzVqp8F-w3bQguypUuB7YeicQwQdSxzbBSaxl_5aHMsZ0oyKqp5HchoNzG.RlEQnIiMVNMvjtKl <br/>Passcode: ef94@^+f) | **<span style="color:red;">ParticipationQ,</span>** **<span style="color:red;">A2 due</span>**|
 | 14      | Oct 21 (Fri) | LSB-LT3 | Mid-term | |- |- |**<span style="color:red;">8:30am-11:15am, Mid-term</span>**|
 ||||<span style="color:blue;">Module 2 start</span>|||||
-| 15      | Oct 26 (Wed) | SC-L4 |  Dim reduction & Visualization  |  |       |         | PA1 posted|
+| 15      | Oct 26 (Wed) | SC-L4 |  Multi-omics overview  | <a href="https://www.dropbox.com/s/y41ahspm9vg2xjx/lec15-multi-omics.pdf?dl=0">Lec-15</a> |       |<a href="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">Intro to cancer</a>, <a href="https://www.ebi.ac.uk/training/materials/cancer-genomics-materials/">Cancer genomics</a> | PA1 posted|
 | 16      | Oct 28 (Fri) | LSB-LT3 | Multi-omics data |  |       |         ||
 | 17      | Nov 2 (Wed) | SC-L4 | Cancer genomics | | | ||
 | 18      | Nov 4 (Fri) | LSB-LT3 | TUT |   |       |         ||
