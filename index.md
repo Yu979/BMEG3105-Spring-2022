@@ -105,13 +105,13 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 14      | Oct 21 (Fri) | LSB-LT3 | Mid-term | |- |- |**<span style="color:red;">8:30am-11:15am, Mid-term</span>**|
 ||||<span style="color:blue;">Module 2 start</span>|||||
 | 15      | Oct 26 (Wed) | SC-L4 |  Multi-omics overview  | <a href="https://www.dropbox.com/s/y41ahspm9vg2xjx/lec15-multi-omics.pdf?dl=0">Lec-15</a> |       |<a href="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">Intro to cancer</a>, <a href="https://www.ebi.ac.uk/training/materials/cancer-genomics-materials/">Cancer genomics</a> | PA1 posted|
-| 16      | Oct 28 (Fri) | LSB-LT3 | Multi-omics data |  |       |         ||
-| 17      | Nov 2 (Wed) | SC-L4 | Cancer genomics | | | ||
-| 18      | Nov 4 (Fri) | LSB-LT3 | TUT |   |       |         ||
-| 19      | Nov 9 (Wed) | SC-L4 | Single cell & Visualization |  |       |         | **<span style="color:red;">Project M-report</span>**|
+| 16      | Oct 28 (Fri) | LSB-LT3 | Cancer genomics overview | <a href="https://www.dropbox.com/s/iqlqv2q8us9bmtk/lec16-cancer%20genomics.pdf?dl=0">Lec-16</a>  |       |<a href="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">Intro to cancer</a>, <a href="https://www.ebi.ac.uk/training/materials/cancer-genomics-materials/">Cancer genomics</a>         |  |
+| 17      | Nov 2 (Wed) | SC-L4 | Genomics data analysis | | | ||
+| 18      | Nov 4 (Fri) | LSB-LT3 | Single cell genomics |   |       |         ||
+| 19      | Nov 9 (Wed) | SC-L4 | Data visualization |  |       |         | **<span style="color:red;">Project M-report</span>**|
 | 20     | Nov 11 (Fri) | LSB-LT3 | Protein-RNA     |  |       |         ||
 | |||<span style="color:blue">Module 3 start</span>|||||
-| 21     | Nov 16 (Wed) | SC-L4 | Deep learning  |  |       |         | **<span style="color:red;">PA1 due</span>**, A3 posted|
+| 21     | Nov 16 (Wed) | SC-L4 | Deep learning/CNN  |  |       |         | **<span style="color:red;">PA1 due</span>**, A3 posted|
 | 22      | Nov 18 (Fri) | LSB-LT3 | How to present |  |       |         ||
 | 23      | Nov 23 (Wed) | SC-L4 | EHRs & Bio-graph |  |       |         ||
 | 24      | Nov 25 (Fri) | LSB-LT3 | Project pres   |  | | | **<span style="color:red;">A3 due</span>**|
