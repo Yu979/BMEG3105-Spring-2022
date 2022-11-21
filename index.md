@@ -113,7 +113,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | |||<span style="color:blue">Module 3 start</span>|||||
 | 21     | Nov 16 (Wed) | SC-L4 | Deep learning/CNN  | <a href="https://www.dropbox.com/s/hxu1vkydsj94h00/lec21-deep%20learning.pdf?dl=0">Lec-21</a>  |       |<a href="https://colab.research.google.com/drive/1CEF_yzuCazecajrDblegX6hw3pBPm-qN?usp=sharing">Pytorch examples</a>         | **<span style="color:red;">PA1 due</span>**, A3 posted|
 | 22      | Nov 18 (Fri) | LSB-LT3 | EHRs & Text | <a href="https://www.dropbox.com/s/y9qj8b9mry5i0k3/lec22-ehr.pdf?dl=0">Lec-22</a>  |       |  <a href="https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709">EHRs processing</a>  |  |
-| 23      | Nov 23 (Wed) | SC-L4 | How to present |  |       |         ||
+| 23      | Nov 23 (Wed) | SC-L4 | Drug & Presentation | <a href="https://www.dropbox.com/s/h2o35d52bgffcge/lec23-presentation.pdf?dl=0">Lec-23</a> |       |         | |
 | 24      | Nov 25 (Fri) | LSB-LT3 | Project pres   |  | | | **<span style="color:red;">A3 due</span>**|
 | 25      | Nov 30 (Wed) | SC-L4 | Course review |  | | | **<span style="color:red;">ParticipationQ</span>**|
 | 26      | Dec 2 (Fri) | LSB-LT3 | Project pres  | | | | **<span style="color:red;">Project report</span>**|
