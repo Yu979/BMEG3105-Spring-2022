@@ -115,7 +115,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 22      | Nov 18 (Fri) | LSB-LT3 | EHRs & Text | <a href="https://www.dropbox.com/s/y9qj8b9mry5i0k3/lec22-ehr.pdf?dl=0">Lec-22</a>  |       |  <a href="https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709">EHRs processing</a>  |  |
 | 23      | Nov 23 (Wed) | SC-L4 | Drug & Presentation | <a href="https://www.dropbox.com/s/h2o35d52bgffcge/lec23-presentation.pdf?dl=0">Lec-23</a> |       |         | |
 | 24      | Nov 25 (Fri) | LSB-LT3 | Project pres   |  | | | **<span style="color:red;">A3 due</span>**|
-| 25      | Nov 30 (Wed) | SC-L4 | Course review |  | | | **<span style="color:red;">ParticipationQ</span>**|
+| 25      | Nov 30 (Wed) | SC-L4 | Course review | <a href="https://www.dropbox.com/s/vrl6xruxzvgosba/lec25-Course%20review.pdf?dl=0">Lec-25</a>  | | | **<span style="color:red;">ParticipationQ</span>**|
 | 26      | Dec 2 (Fri) | LSB-LT3 | Project pres  | | | | **<span style="color:red;">Project report</span>**|
 
 ### <a id="assignments">Assignments</a>
